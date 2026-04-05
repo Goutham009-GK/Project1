@@ -1,1 +1,1 @@
-# Portfolio analyser
+# NeuroBeat 
